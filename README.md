@@ -26,6 +26,9 @@ Los datos fueron extraídos mediante consultas SQL y analizados en Python utiliz
 * **Planificación Dinámica de Turnos de la Fuerza Laboral:** Utilizar la métrica del impacto climático (~7 minutos de retraso promedio) para ajustar automáticamente los turnos de los conductores y los intervalos de despacho en días lluviosos. Esto ayuda a prevenir el agotamiento de los conductores (*burnout*) y mantiene los niveles de satisfacción del cliente.
 * **Incentivos Geofocalizados para Conductores:** Implementar tarifas dinámicas o bonos para los conductores en los 4 barrios comerciales principales durante las horas pico, asegurando que la oferta de personal coincida con la alta demanda de movilidad urbana.
 
+## 📊 Dashboard Ejecutivo (Tableau)
+https://public.tableau.com/views/MovilidadUrbanayDemandadeViajes/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 🛠️ Herramientas y Tecnologías
 * **Lenguajes y Entornos:** SQL, Python 3.
 * **Librerías:** Pandas, NumPy, Matplotlib, SciPy (Análisis Estadístico Avanzado).
